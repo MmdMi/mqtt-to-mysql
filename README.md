@@ -1,4 +1,4 @@
-# Store a topic messages to database table
+# Store messages to database table by structure
 
 ## hints
   1. The message type in the broker must be the json object
