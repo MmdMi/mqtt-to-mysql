@@ -1,6 +1,10 @@
 # Store a topic messages to database table
 
-### Configuration
+## hints
+  1. The message type in the broker must be the json object
+  2. Only use one table for store data
+
+## Configuration
 You can set config for database, broker and table structure with config files
   
 ## Database configs
